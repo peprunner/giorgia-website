@@ -17,10 +17,6 @@ name = "Specializzazioni"
 url = "#service"
 weight = 3
 [[menu.main]]
-//name = "Work"
-//url = "#portfolio"
-//weight = 4
-//[[menu.main]]
 name = "Curriculum"
 url = "#resume"
 weight = 5
