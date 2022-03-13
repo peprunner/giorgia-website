@@ -1,13 +1,13 @@
 ---
 enable: true
-topTitle: Hello, I am Giorgia
+topTitle: Ciao, sono Giorgia
 content: >
-  # I am your clinical psychologist
+  # Sono la tua psicologa clinica
 
   Enjoy team diversity and increase their networks among others people
   in various fields by
-buttonName: Contact me
+buttonName: Contattami
 buttonURL: contact
 image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+//videoThumb: images/hero/popup-thumb.png
+//videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

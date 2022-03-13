@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "it-it"
 paginate = 6
 theme = "portio"
 title = "Portio"
@@ -9,19 +9,19 @@ name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "Info"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "Servizi"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
+name = "Lavori"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Resume"
+name = "CV"
 url = "#resume"
 weight = 5
 [[menu.main]]
@@ -33,13 +33,13 @@ name = "Blog"
 url = "#blog"
 weight = 7
 [[menu.main]]
-name = "Contact"
+name = "Contatti"
 url = "#contact"
 weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
+name = "Chi sono"
 url = "about"
 weight = 1
 [[menu.sitemap]]
@@ -51,7 +51,7 @@ name = "Privacy & Policy"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Ultimi articoli"
 url = "#"
 weight = 4
 
