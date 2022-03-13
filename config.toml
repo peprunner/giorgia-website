@@ -9,19 +9,19 @@ name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "Info"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "Specializzazioni"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
+//name = "Work"
+//url = "#portfolio"
+//weight = 4
+//[[menu.main]]
+name = "Curriculum"
 url = "#resume"
 weight = 5
 [[menu.main]]
@@ -33,13 +33,13 @@ name = "Blog"
 url = "#blog"
 weight = 7
 [[menu.main]]
-name = "Contact"
+name = "Contatti"
 url = "#contact"
 weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
+name = "Su di me"
 url = "about"
 weight = 1
 [[menu.sitemap]]
@@ -51,7 +51,7 @@ name = "Privacy & Policy"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Post recenti"
 url = "#"
 weight = 4
 
