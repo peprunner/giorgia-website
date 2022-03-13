@@ -1,4 +1,4 @@
 ---
-title: Contattami
-breadcrumb: Contattami
+title: Contact Me
+breadcrumb: Contact
 ---
