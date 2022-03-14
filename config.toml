@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "it-it"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Dott.sa Ravasio"
 # Main Menu
 [[menu.main]]
 name = "Home"
